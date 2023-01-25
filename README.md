@@ -12,7 +12,7 @@ There is no installation process for the Prework Study Guide.
 
 ## Usage
 
-To use the Prework Study Guide, open a web browser and navigate to:
+To use the Prework Study Guide, open a web browser and navigate to: https://jdempe.github.io/prework-study-guide/
 
 Then, simply read through the documentation.  Links can be clicked on to be taken to other webpages.  All links are set to open in a new window, so you won't be taken away from the Prework Study Guide!
 
