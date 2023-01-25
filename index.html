@@ -21,8 +21,7 @@
           <li>The body element represents the visible content shown to the user.</li>
           <li>Headers should always follow a sequential order, and h1 should only be used once per page.</li>
           <li>li represents a list item.</li>
-          <li></li>
-          <li>Colors can be selected from <a href="https://htmlcolorcodes.com/" target="_blank" rel="noopener noreferrer">this</a> website or using a VSCode extension.  They can be added semantically (grey, blue) or hex.</li>
+          <li>Colors can be selected from <a href="https://htmlcolorcodes.com/" target="_blank" rel="noopener noreferrer">this</a> website or using a VSCode extension.  They can be added semantically (grey, blue) or by hex.</li>
           <li>If you add a link using href and set it to open in a new tab, use rel="noopener noreferrer" to prevent a form of phishing called tabnapping.  Learn more <a href="https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/" target="_blank" rel="noopener noreferrer">here.</a> </li>
         </ul>
       </section>
@@ -41,11 +40,13 @@
       <section class="card" id="git-section">
         <h2>Git</h2>
         <ul>
-          <li>git status: checks what branch we are currently on</li>
-          <li>git checkout -b branch-name: creates a new branch and switches to it</li>
-          <li>git log: shows the commit history (and SHA hashes) for the repository</li>
-          <li>git reset --hard: Resets all tracked files in the repository to their last commit status</li>
-          <li>git clean -xfd: Removes all untracked files from the repository</li>
+          <li>Git commits all have a unique SHA hash to identify it.  These can be used to quickly jump to an older commit on a branch.</li>
+          <li>git status || checks what branch we are currently on and shows what files are modified/new and staged/unstaged.</li>
+          <li>git checkout -b branch-name || creates a new branch and switches to it</li>
+          <li>git log || shows the commit history (and SHA hashes) for the repository</li>
+          <li>git reset --hard || Resets all tracked files in the repository to their last commit status</li>
+          <li>git clean -xfd || Removes all untracked files from the repository</li>
+          <li>git clone <i>URL</i> || This will create a local copy of the repository from GitHub (or other similar hosting sites).  This is nice when you have multiple computers/developers that need to access the same code. </li>
           <li>More commands can be found at <a href="https://education.github.com/git-cheat-sheet-education.pdf" target="_blank" rel="noopener noreferrer">this link</a></li>
         </ul>
       </section>
@@ -53,9 +54,12 @@
       <section class="card" id="javascript-section">
         <h2>JavaScript</h2>
         <ul>
-          <li>Javascript reads top to bottom, the order matters.</li>
+          <li>Javascript reads top to bottom, the order matters.  That is called control flow.</li>
           <li>Javascript is a weak typing language, meaning it will dynamically change the data type if there are mismatches.  This prevents many errors from being thrown, but can also be a nuisance when debugging.</li>
-          <li></li>
+          <li>In Javascript, you can use a for loop to iterate through a list.</li>
+          <li>In Javascript, you can create and call a function.  A function is a collection of code of a similar purpose.</li>
+          <li>Arrays are indexed starting at 0, so to call the third element in an array you would say array[2].</li>
+          <li>A variable is a named container that allows us to store data in our code.</li>
         </ul>
       </section>
     </main>
