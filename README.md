@@ -12,7 +12,7 @@ There is no installation process for the Prework Study Guide.
 
 ## Usage
 
-To use the Prework Study Guide, open a web browser and navigate to: https://jdempe.github.io/prework-study-guide/
+To use the Prework Study Guide, open a web browser and navigate to: https://jdempe.github.io/bootcamp-00-prework-study-guide/
 
 Then, simply read through the documentation.  Links can be clicked on to be taken to other webpages.  All links are set to open in a new window, so you won't be taken away from the Prework Study Guide!
 
@@ -23,7 +23,7 @@ This tutorial was used to create links that open new tabs.  It also provided inf
 
 ## License
 
-Refer to the LICENSE in the repository at https://github.com/JDempe/prework-study-guide.git.
+Refer to the LICENSE in the repository at https://github.com/JDempe/bootcamp-00-prework-study-guide.
 
 ## How to Contribute
 
