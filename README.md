@@ -27,4 +27,4 @@ Refer to the LICENSE in the repository at https://github.com/JDempe/bootcamp-00-
 
 ## How to Contribute
 
-Contribute at https://github.com/JDempe/prework-study-guide.git.
+Contribute at https://github.com/JDempe/bootcamp-00-prework-study-guide.git.
